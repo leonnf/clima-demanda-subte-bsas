@@ -4,16 +4,20 @@ Uso:  from comun import BASE, RES, RES_TAB, guardar_tabla
 """
 from __future__ import annotations
 
+import os
 import pathlib
-
 
 import pandas as pd
 
 SEED = 42
 
 BASE = pathlib.Path(__file__).resolve().parents[2]   # raiz del proyecto
-RES = BASE / "recursos"
-DSETS = BASE / "dsets"
+# Carpeta con dsets/ y recursos/. Por defecto, la raíz del proyecto.
+DATA_DIR = pathlib.Path(os.environ.get("DATA_DIR", BASE)).expanduser().resolve()
+RES = DATA_DIR / "recursos"
+DSETS = DATA_DIR / "dsets"
+# Los scripts usan rutas relativas a la raíz ("recursos/...", "Ultima entrega/...").
+os.chdir(BASE)
 ENTREGA = BASE / "Ultima entrega"
 RES_DIR = ENTREGA / "resultados"
 RES_TAB = RES_DIR / "tablas"
