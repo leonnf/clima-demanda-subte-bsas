@@ -1,0 +1,2 @@
+serie,n_pares_completos,correlacion_pearson,faltantes_saba,pct_faltantes_saba,sesgo_era5_menos_saba
+temperatura media diaria (ERA5 vs SABA Aeroparque),1424,0.9898,1,0.0702,-0.7181

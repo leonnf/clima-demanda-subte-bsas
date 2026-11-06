@@ -1,0 +1,2 @@
+analisis,n_seco,n_lluvia,media_seco,media_lluvia,diferencia,t_welch,p_welch_unilateral,p_welch_bilateral,ic95_dif_bajo,ic95_dif_alto,mannwhitney_U,p_mannwhitney_unilateral,cohen_d,d_ic95_bajo,d_ic95_alto
+residuos del modelo de calendario,244,70,7134.322024,-24868.208197,-32002.530221,-4.083936,0.999956,8.9e-05,-47546.736403,-16458.324039,5073.0,1.0,-0.595622,-0.908253,-0.2876

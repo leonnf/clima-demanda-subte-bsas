@@ -1,0 +1,2 @@
+analisis,n_seco,n_lluvia,media_seco,media_lluvia,diferencia,t_welch,p_welch_unilateral,p_welch_bilateral,ic95_dif_bajo,ic95_dif_alto,mannwhitney_U,p_mannwhitney_unilateral,cohen_d,d_ic95_bajo,d_ic95_alto
+demanda cruda (H2 principal),244,70,1269705.581967,1224068.242857,-45637.33911,-2.420945,0.991379,0.017242,-83027.030626,-8247.647594,5995.5,0.999928,-0.350524,-0.637637,-0.075024

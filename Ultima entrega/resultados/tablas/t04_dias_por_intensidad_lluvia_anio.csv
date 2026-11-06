@@ -1,0 +1,17 @@
+anio,intensidad_lluvia,dias
+2018,"seco (<0,1 mm)",200
+2018,"leve (0,1-5 mm)",118
+2018,moderada (5-20 mm),32
+2018,fuerte (>=20 mm),15
+2019,"seco (<0,1 mm)",187
+2019,"leve (0,1-5 mm)",119
+2019,moderada (5-20 mm),38
+2019,fuerte (>=20 mm),18
+2020,"seco (<0,1 mm)",224
+2020,"leve (0,1-5 mm)",74
+2020,moderada (5-20 mm),25
+2020,fuerte (>=20 mm),11
+2021,"seco (<0,1 mm)",231
+2021,"leve (0,1-5 mm)",87
+2021,moderada (5-20 mm),31
+2021,fuerte (>=20 mm),15

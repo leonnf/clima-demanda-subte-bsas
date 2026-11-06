@@ -1,0 +1,4 @@
+especificacion,n,correlacion_temp_demanda
+cruda (días hábiles pre-pandemia),532,-0.3608
+residualizada por año-mes (efectos fijos de mes),532,-0.002
+residualizada por año-mes + día de la semana,532,-0.0044

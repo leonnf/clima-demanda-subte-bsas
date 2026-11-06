@@ -1,0 +1,5 @@
+intensidad_lluvia,dias,pct
+"seco (<0,1 mm)",842,59.09
+"leve (0,1-5 mm)",398,27.93
+moderada (5-20 mm),126,8.84
+fuerte (>=20 mm),59,4.14

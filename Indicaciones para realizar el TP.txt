@@ -1,0 +1,81 @@
+
+1º Entrega Parcial Proyecto Final - 30% Buzón de entrega
+
+A partir de la problemática seleccionada por el grupo, deberán realizar una primera definición de su proyecto de investigación.
+
+El objetivo de esta actividad es que puedan comenzar a delimitar con claridad qué van a investigar, cuál es el problema que pretenden abordar, qué objetivos persiguen y cuál es la hipótesis inicial que orientará el trabajo.
+
+Esta actividad se realiza de manera grupal. Cada grupo deberá realizar una única entrega, utilizando el espacio de texto disponible en la tarea.
+
+Importante: Esta actividad constituye una primera formulación del proyecto. Las definiciones realizadas en esta instancia —título, problema, objetivos e hipótesis— no son definitivas y podrán ser revisadas, reformuladas y ajustadas a medida que avancemos en la cursada y a partir de las devoluciones realizadas por el equipo docente. El propósito de esta entrega es contar con un primer punto de partida estructurado que permita orientar el desarrollo del proyecto.
+
+Instrucciones de actividad
+
+La entrega deberá contemplar los siguientes aspectos:
+
+1. Título del proyecto
+Propongan un título inicial para el proyecto. El mismo debe permitir identificar de manera clara y concisa el tema que será abordado.
+
+2. Problema
+Describan el problema que el grupo ha decidido abordar. Expliquen brevemente cuál es la situación problemática identificada, a quién o qué afecta y por qué consideran relevante trabajar sobre ella.
+
+3. Objetivo general
+Formulen el objetivo general del proyecto. Este debe expresar de manera clara qué se pretende alcanzar con el desarrollo de la investigación.
+
+4. Objetivos específicos
+Definan los objetivos específicos necesarios para alcanzar el objetivo general. Procuren que sean concretos y estén directamente relacionados con el problema planteado.
+
+5. Hipótesis
+Planteen una hipótesis inicial relacionada con el problema y los objetivos definidos. La hipótesis deberá expresar aquello que el grupo supone o espera encontrar, demostrar o validar a partir del desarrollo del proyecto.
+Plantilla para la entrega
+
+Copien la siguiente estructura en el espacio de respuesta y complétenla:
+
+Título del proyecto:
+[Escribir aquí]
+
+Problema:
+[Describir aquí el problema seleccionado]
+
+Objetivo general:
+[Escribir aquí]
+
+Objetivos específicos:
+
+    [Objetivo específico 1]
+    [Objetivo específico 2]
+    [Objetivo específico 3]
+    ...
+    [Objetivo específico N]
+
+Hipótesis:
+[Escribir aquí]
+📘 Trabajo Integrador Final
+
+Este trabajo tiene como objetivo aplicar los conocimientos adquiridos en torno a la Metodología de Investigación, enfocando su desarrollo en un proyecto concreto.
+🔍 Enfoques posibles
+
+Podés elegir entre dos propuestas de proyecto para desarrollar tu trabajo integrador:
+
+    Proyecto de Analítica de Datos: Acceder al documento (se abre en una ventana nueva)
+    Proyecto de Ciencia de Datos: Acceder al documento (se abre en una ventana nueva)
+
+📊 Dataset base
+
+Ambos enfoques requieren trabajar con el dataset provisto sobre los Subtes de Buenos Aires:
+📁 Descargar dataset (se abre en una ventana nueva)
+🌐 Datos complementarios (opcional)
+
+Podés complementar tu análisis con información pública disponible en el portal oficial de datos del Gobierno de la Ciudad:
+Ir al portal de datos abiertos (se abre en una ventana nueva)
+🧭 Recomendaciones para el desarrollo
+
+    Seleccioná un enfoque según tus intereses y fortalezas técnicas.
+    Revisá bien el dataset antes de formular tu problema de investigación.
+    Seguí los pasos metodológicos propuestos en la asignatura.
+    Podés trabajar en equipos de 6 integrantes, no se admitirán grupos de menos de 4 integrantes
+
+📌 Modalidad de entrega
+
+La entrega del trabajo integrador se realizará a través del aula virtual en formato que será indicado oportunamente. 
+

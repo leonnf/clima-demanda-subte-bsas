@@ -1,0 +1,2 @@
+analisis,n_seco,n_lluvia,media_seco,media_lluvia,diferencia,t_welch,p_welch_unilateral,p_welch_bilateral,ic95_dif_bajo,ic95_dif_alto,mannwhitney_U,p_mannwhitney_unilateral,cohen_d,d_ic95_bajo,d_ic95_alto
+"notebook 01: lluvia_medible, hábiles fuera de ASPO",490,366,814465.642857,913598.663934,99133.021077,2.961353,0.001576,0.003152,33424.828208,164841.213947,96358.5,0.030827,0.202159,0.069436,0.341768

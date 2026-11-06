@@ -1,0 +1,15 @@
+modelo,variable,importancia,importancia_sd
+4_random_forest,dia_jueves,239832.032,7072.9657
+4_random_forest,dia_viernes,233248.018,12516.4908
+4_random_forest,dia_miércoles,226862.3554,14123.7025
+4_random_forest,dia_martes,214967.7586,7863.5154
+4_random_forest,dia_lunes,212347.9023,16131.1818
+4_random_forest,es_feriado,169799.5366,9604.5267
+4_random_forest,dia_sábado,148795.5223,8230.0555
+4_random_forest,mes,36174.3479,2379.7325
+4_random_forest,dia_atipico,30958.2332,3200.7553
+4_random_forest,temperatura_media_c,1087.1796,822.5697
+4_random_forest,precipitacion_mm,623.7247,491.9477
+4_random_forest,lluvia_significativa_5mm,-31.1281,8.8043
+4_random_forest,temperatura_min_c,-659.1693,1479.4661
+4_random_forest,temperatura_max_c,-1762.334,915.4239

@@ -1,0 +1,20 @@
+# Datos crudos de la cátedra (varios GB). Van a Drive, no al repo.
+dsets/
+
+# Intermedios y artefactos binarios. Se regeneran con los scripts.
+*.parquet
+
+# Paquetes y cachés
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Candados de LibreOffice
+.~lock*
+
+# CSV de más de 50 MB.
+# Git no puede filtrar por tamaño: dsets/ ya cubre los históricos
+# (historico_2018.csv … historico_2021.csv, todos por encima de 50 MB).
+# Antes de cada commit hay que confirmar que ningún archivo trackeado
+# supere 50 MB. Si aparece un CSV grande fuera de dsets/, agregarlo acá.

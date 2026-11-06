@@ -1,0 +1,72 @@
+En esta actividad deberán presentar la versión final de su proyecto, integrando la fundamentación teórica, la metodología, el desarrollo de la solución y el análisis de los resultados obtenidos.
+
+El trabajo deberá recuperar los avances de las entregas anteriores e incorporar las correcciones y observaciones recibidas, de modo que el documento final sea claro, coherente y completo.
+⚠️ Fecha límite de entrega
+
+La entrega estará habilitada hasta el sábado 7 de noviembre de 2026 a las 23:59 h, sin excepción.
+
+Dados los tiempos de cierre de la asignatura, no habrá extensiones del plazo ni se recibirán entregas fuera de término ni por otro medio que no sea la actividad. Organicen el trabajo y la carga de los archivos con anticipación.
+🎯 Objetivo de la actividad
+
+Presentar y fundamentar una solución de analítica de datos o ciencia de datos, mostrando la relación entre el problema planteado, los objetivos, la metodología aplicada y los resultados obtenidos, y comunicar las conclusiones mediante un informe final y una defensa grupal en video.
+🧩 ¿Qué debe incluir el informe final?
+
+El documento deberá integrar las siguientes secciones:
+
+    Introducción, problema y objetivos. Presentación del tema, su contexto, la relevancia del problema y los objetivos del proyecto, actualizados en función del trabajo realizado.
+    Marco teórico finalizado. Desarrollo de los conceptos, antecedentes y enfoques que sustentan el proyecto, con las citas correspondientes y una vinculación clara con el problema abordado.
+    Metodología finalizada. Explicación del tipo de estudio, las fuentes de datos, la forma de obtención de los datos, las herramientas utilizadas y las etapas efectivamente realizadas para su preparación y análisis. Debe permitir comprender qué hicieron, cómo lo hicieron y por qué tomaron esas decisiones.
+    Desarrollo de la solución. Descripción ordenada de la solución implementada y de sus principales componentes. Incorporen esquemas, diagramas, capturas y explicaciones que permitan comprender su funcionamiento y las decisiones adoptadas.
+    Resultados obtenidos y su análisis. Presentación de los resultados reales del proyecto mediante datos, tablas, métricas, gráficos e imágenes, según corresponda. Cada resultado deberá estar acompañado de una explicación: qué muestra, cómo se interpreta y qué aporta para responder al problema o a los objetivos.
+    Conclusiones. Síntesis de los principales hallazgos, el grado de cumplimiento de los objetivos, los aportes de la solución y las limitaciones del trabajo. Incluyan posibles mejoras o líneas de continuidad.
+    Bibliografía final. Listado completo de las fuentes utilizadas, con un criterio de citación uniforme, preferentemente normas APA. Mantengan el mínimo de 5 fuentes relevantes solicitado en la entrega anterior y amplíenlo cuando sea necesario. Las citas del texto y las referencias bibliográficas deberán corresponderse entre sí.
+
+💻 Desarrollo de la solución
+
+Además del informe, deberán entregar el desarrollo realizado, según las características de su proyecto: notebook, tablero, archivos de análisis u otros componentes necesarios para revisar la solución.
+
+    El material debe estar ordenado e identificado.
+    Incluyan las indicaciones necesarias para abrirlo, ejecutarlo o consultarlo, así como las dependencias o fuentes de datos requeridas.
+    Si utilizan enlaces, verifiquen que tengan los permisos de acceso correspondientes y que el docente pueda consultar el contenido.
+    Las capturas incluidas en el informe deben acompañar la explicación; no reemplazan la entrega del desarrollo.
+
+🎥 Video de la defensa grupal
+
+Deberán entregar un video de defensa del proyecto con participación de todos los integrantes. En la presentación deberán:
+
+    Presentar brevemente el problema y los objetivos.
+    Explicar la metodología y las principales decisiones tomadas.
+    Mostrar el funcionamiento de la solución desarrollada.
+    Exponer e interpretar los resultados más relevantes.
+    Presentar las conclusiones y las limitaciones del trabajo.
+
+Procuren que el audio sea claro y que los gráficos, textos y demostraciones puedan visualizarse correctamente. Si comparten el video mediante un enlace, comprueben los permisos de acceso antes de realizar la entrega.
+
+Cómo máximo 10 minutos de video, dónde cada participante se deberá presentar y ver en cámara.
+📊 Evaluación: hasta 40 puntos
+
+La calificación de esta instancia tendrá un máximo de 40 puntos por estudiante, distribuidos de la siguiente manera:
+1. Producción final del grupo: hasta 20 puntos
+
+Se evaluarán el informe final, el desarrollo de la solución y la defensa grupal en video, considerando la coherencia del proyecto, la fundamentación teórica y metodológica, la calidad de la solución, el análisis de los resultados y la claridad de la comunicación.
+
+Este componente tendrá una calificación grupal, común para todos los integrantes.
+2. Proceso y modalidad de trabajo: hasta 20 puntos
+
+Se evaluará de manera individual el proceso de trabajo sostenido durante el proyecto, considerando:
+
+    La periodicidad y continuidad del trabajo en el o los documentos compartidos.
+    Los aportes individuales registrados durante la elaboración del proyecto.
+    El cumplimiento de los plazos de las distintas entregas.
+
+Se tendrá en cuenta el historial de trabajo y los registros disponibles. Por lo tanto, este componente puede tener una calificación diferente para cada integrante del mismo grupo.
+📤 ¿Qué deben entregar?
+
+    Informe final en PDF, con identificación del proyecto y de todos los integrantes.
+    Desarrollo de la solución: notebook, tablero u otros archivos correspondientes, con las indicaciones necesarias para su revisión.
+    Video de la defensa grupal, como archivo o mediante un enlace accesible: si quieren pueden adjuntar el link de drive dónde lo suba, y tengamos permisos de lectura.
+
+En esta instancia deberán realizar una única entrega por grupo. Un integrante será responsable de cargar la totalidad del material en representación del equipo.
+
+Antes de enviar: comprueben que estén todos los archivos, que correspondan a la versión final y que los enlaces funcionen. La entrega deberá quedar completada antes del sábado 7 de noviembre de 2026 a las 23:59 h.
+

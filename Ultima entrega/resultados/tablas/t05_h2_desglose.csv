@@ -1,0 +1,10 @@
+especificacion,grupo,n,demanda_media
+"notebook 01 (2018-2021, hábiles, sin ASPO, lluvia_medible)",lluvia_medible,366,913599.0
+"notebook 01 (2018-2021, hábiles, sin ASPO, lluvia_medible)",seco,490,814466.0
+notebook 01 restringido a 2018-2019,lluvia_medible,248,1176822.0
+notebook 01 restringido a 2018-2019,seco,271,1178093.0
+"H2 (2018-2019, hábiles, sin feriado ni atípicos, 3 grupos)",leve,161,1242270.0
+"H2 (2018-2019, hábiles, sin feriado ni atípicos, 3 grupos)",lluvia>=5mm,70,1224068.0
+"H2 (2018-2019, hábiles, sin feriado ni atípicos, 3 grupos)",seco,244,1269706.0
+mismo subconjunto H2 con umbral lluvia_medible,lluvia_medible,231,1236754.0
+mismo subconjunto H2 con umbral lluvia_medible,seco,244,1269706.0

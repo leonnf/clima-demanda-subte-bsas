@@ -1,0 +1,5 @@
+variable,count,mean,std,min,median,max
+temperatura_media_c,1425.0,17.37,5.6,3.8,17.6,30.9
+temperatura_max_c,1425.0,20.92,5.9,7.3,21.0,36.5
+temperatura_min_c,1425.0,13.97,5.65,-0.7,14.0,26.7
+precipitacion_mm,1425.0,2.83,8.4,0.0,0.0,82.0
