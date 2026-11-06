@@ -108,5 +108,6 @@ cátedra con `gdown --folder`. Si esa descarga falla y `URL_ESPEJO_DRIVE` (en
 `descargar_datos.py`) tiene una copia del grupo, intenta con esa.
 
 En Colab se instala `requirements-colab.txt` (versiones mínimas, Python 3.10 o superior).
-Con versiones más nuevas que las de `requirements.txt` los resultados pueden diferir
-levemente: con pandas 3, por ejemplo, 02 marca 3 días atípicos más.
+Con otras versiones de pandas la detección de días atípicos puede variar (con pandas 3 se
+detectan 38 en lugar de 35); los resultados del informe se obtuvieron con las versiones de
+`requirements.txt`.
