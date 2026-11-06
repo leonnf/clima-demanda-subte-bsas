@@ -12,7 +12,7 @@ import pandas as pd
 
 URL_CATEDRA = "https://drive.google.com/open?id=1N_upx66kxNa6MqUD40SsvJqioQLJ8jdm"
 FUENTE_CLIMA = (
-    "generado por notebook 00 (ERA5/Open-Meteo, NASA POWER, Meteostat 87582)"
+    "notebook 00 (ERA5/Open-Meteo, NASA POWER, Meteostat 87582)"
 )
 URL_ERA5 = "https://archive-api.open-meteo.com/v1/archive"
 URL_NASA = "https://power.larc.nasa.gov/api/temporal/daily/point"
