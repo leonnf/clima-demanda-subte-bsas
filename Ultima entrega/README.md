@@ -12,8 +12,9 @@ a mano.
   (pandas 2.0.3, numpy 1.24.4, scipy 1.10.1, statsmodels 0.14.1, scikit-learn 1.3.2,
   matplotlib 3.7.5, pyarrow 14.0.2, holidays 0.38).
 - Disco: ~8 GB libres (los históricos de molinetes pesan ~2,4 GB y se leen una sola vez).
-- Los scripts se ejecutan **desde la raíz del proyecto** (la carpeta que contiene
-  `dsets/`, `recursos/` y `Ultima entrega/`), porque las rutas son relativas.
+- Las rutas de los scripts son relativas a la raíz del proyecto (la carpeta que contiene
+  `dsets/`, `recursos/` y `Ultima entrega/`). `comun.py` fija ahí el directorio de trabajo,
+  así que se pueden lanzar desde cualquier carpeta.
 
 ## 2. Datos de entrada (no se modifican)
 
@@ -72,3 +73,40 @@ porque los resultados son reproducibles de punta a punta.
 - En `03` se leen los históricos 2018-2019 con `usecols`, `dtype` y `chunksize`; no se
   cargan completos en memoria.
 - Si se quiere regenerar solo las figuras: `python3 $NP/09_figuras.py`.
+
+## 6. Cómo reproducir
+
+Los datos crudos (`dsets/`, ~2,4 GB) no están en el repo. `datos/manifest.csv` registra
+tamaño, SHA-256 y fuente de cada archivo de `dsets/` y `recursos/`, y
+`descargar_datos.py --solo-verificar` los compara (OK / DISTINTO / FALTA, sin borrar nada).
+Los dos `.parquet` de `recursos/` dan FALTA hasta ejecutar 02 y 03, que los generan.
+
+### Local
+
+```bash
+git clone <REPO_URL> proyecto && cd proyecto
+pip install -r "Ultima entrega/requirements.txt" gdown   # versiones exactas (Python 3.8)
+python3 descargar_datos.py                               # baja dsets/ y verifica
+# o copiá la carpeta de la cátedra a dsets/ y corré: python3 descargar_datos.py --solo-verificar
+```
+
+Después, los scripts en el orden de la sección 3.
+
+### Colab con Drive
+
+1. Copiá a tu Drive la carpeta de la cátedra
+   (<https://drive.google.com/open?id=1N_upx66kxNa6MqUD40SsvJqioQLJ8jdm>).
+2. Abrí `ejecutar_en_colab.ipynb` en Colab y completá `REPO_URL`.
+3. En la celda de datos poné `OPCION = "A"` y en `DRIVE_DSETS` la ruta de esa copia
+   (p. ej. `/content/drive/MyDrive/dsets`). El notebook monta Drive y enlaza `dsets/`.
+4. Ejecutá todas las celdas.
+
+### Colab con descarga
+
+Igual que la anterior, pero con `OPCION = "B"`: `descargar_datos.py` baja la carpeta de la
+cátedra con `gdown --folder`. Si esa descarga falla y `URL_ESPEJO_DRIVE` (en
+`descargar_datos.py`) tiene una copia del grupo, intenta con esa.
+
+En Colab se instala `requirements-colab.txt` (versiones mínimas, Python 3.10 o superior).
+Con versiones más nuevas que las de `requirements.txt` los resultados pueden diferir
+levemente: con pandas 3, por ejemplo, 02 marca 3 días atípicos más.
