@@ -47,7 +47,7 @@ def metadatos(carpeta: str, nombre: str) -> tuple[str, str, str]:
         )
     if nombre == "demanda_diaria_subte_2018_2021.csv":
         return (
-            "Ultima entrega/notebooks/03_molinetes_2018_2019.py",
+            "derivado de molinetes (origen no documentado); verificado contra molinetes por 03_molinetes_2018_2019.py: coincide en 2018–2019, no en 2020–2021 (ver 03b/03c)",
             "",
             "Derivado de dsets/historico_*.csv (suma diaria de pasajeros). "
             "Ese script no lo escribe: lo recalcula y lo compara. "
@@ -55,7 +55,7 @@ def metadatos(carpeta: str, nombre: str) -> tuple[str, str, str]:
         )
     if nombre == "perfil_horario_estaciones_subte.csv":
         return (
-            "Ultima entrega/notebooks/06_segmentacion_H3.py",
+            "derivado de molinetes 2018–2019 (origen no documentado); reproducido por 06_segmentacion_H3.py en 85 de 87 estaciones",
             "",
             "Derivado de los molinetes (participación horaria normalizada). "
             "El notebook 01 solo lo lee. 06 reconstruye el perfil y lo compara; "
@@ -75,7 +75,7 @@ def metadatos(carpeta: str, nombre: str) -> tuple[str, str, str]:
         )
     if nombre == "tarifa_complemento_manual.csv":
         return (
-            "Ultima entrega/notebooks/05_hipotesis.py",
+            "plantilla generada por 05_hipotesis.py, a completar a mano con resoluciones de SBASE",
             "",
             "Plantilla vacía 2019-05 a 2021-12. No trae precios inventados.",
         )
