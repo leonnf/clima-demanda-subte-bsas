@@ -1,5 +1,7 @@
 # Última entrega — Incidencia del clima en la demanda de subte (2018-2021)
 
+Ver también el README principal en la raíz del repositorio.
+
 Este directorio contiene el código, las tablas y las figuras de la última entrega del
 Trabajo Final Integrador. Todo el informe (`resultados/INFORME_RESULTADOS.md`) se genera
 a partir de los scripts numerados de `notebooks/`; ningún número del informe está escrito
